@@ -8,7 +8,7 @@
 <script>
 import Index from './components/Index.vue'
 import navbar from './components/Nav.vue'
-import store from './vuex/store.js'
+//import store from './vuex/store.js'
 	
 	export default {
 		name: 'App',
